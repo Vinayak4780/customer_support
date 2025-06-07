@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+nltk
+gradio
+openpyxl
+textblob
+matplotlib
+seaborn
